@@ -1,6 +1,3 @@
-# til >> README.md
+# til (Today I Leanened)
 
-
-
-echo # til
-# til
+こちらのリポジトリは学習用のリポジトリです。
